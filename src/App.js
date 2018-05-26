@@ -14,7 +14,7 @@ class App extends Component {
         <p className="App-intro">
           Za pocetak, menjajete <code>src/App.js</code> i sacuvajte za riload.
         </p>
-        <ul>
+        <ul className='lista2'>
           <li>A</li>
           <li>B</li>
           <li>C</li>
