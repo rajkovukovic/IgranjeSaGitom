@@ -34,3 +34,8 @@ body {
 .horz-linija {
   border-top: 1px solid white;
 }
+
+.lista {
+  text-align: left;
+}
+
