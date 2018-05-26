@@ -30,3 +30,6 @@
 body {
   background: lightblue;
 }
+.horz-linija {
+  border-top: 1px solid white;
+}
